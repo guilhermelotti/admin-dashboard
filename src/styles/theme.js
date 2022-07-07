@@ -28,6 +28,7 @@ export const theme = {
     xlarge: "4.8rem",
     xxlarge: "5.6rem",
   },
+  radii: "7px",
   layers: {
     alwaysOnTop: 90,
   },
