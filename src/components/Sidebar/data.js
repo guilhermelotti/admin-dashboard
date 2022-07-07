@@ -27,7 +27,7 @@ export const data = [
     ],
   },
   {
-    label: "Cadastro de usuários",
+    label: "User registration",
     to: "/admin/users",
     icon: <AiOutlineUsergroupAdd size={22} />,
   },
