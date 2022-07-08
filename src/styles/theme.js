@@ -1,7 +1,7 @@
 export const theme = {
   font: {
     family:
-      "Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif",
+      "Poppins, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif",
     sizes: {
       xsmall: "1.2rem",
       small: "1.4rem",
@@ -13,8 +13,8 @@ export const theme = {
     },
   },
   colors: {
-    primary: "#505fff",
-    secondary: "#2b2f30",
+    primary: "#62278E",
+    secondary: "#1F7962;",
     mainBg: "#1d2021",
     black: "#030517",
     white: "#FFF",

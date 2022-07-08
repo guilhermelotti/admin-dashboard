@@ -1,16 +1,16 @@
 import { Link } from "react-router-dom";
 
-const providers = [
-  { name: "João", id: 1 },
-  { name: "Paula", id: 2 },
+const employees = [
+  { name: "Ana Laura", id: 1 },
+  { name: "Samuel", id: 2 },
 ];
 
-export function Providers() {
+export function Funcionarios() {
   return (
     <div style={{ color: "black", fontSize: "50px" }}>
-      <span>Providers:</span>
+      <span>Funcionarios:</span>
       <div style={{ display: "flex", flexDirection: "column" }}>
-        {providers.map(({ id, name }) => (
+        {employees.map(({ id, name }) => (
           <Link to={`/admin/client/${id}`} key={id}>
             {name}
           </Link>
