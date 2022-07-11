@@ -1,0 +1,52 @@
+{
+  "clientes": [
+    {
+      "id": "sd9jTJLIugH4oG4mBGj-k",
+      "name": "Bianca",
+      "surname": "Tavares",
+      "cpf": "213213123213",
+      "phoneNumber": "1321313",
+      "city": "Franca"
+    },
+    {
+      "id": "pF2gqYSBKxQVsns49xq55",
+      "name": "Eduarda",
+      "surname": "Oliveira",
+      "cpf": "312313123123",
+      "phoneNumber": "12312312",
+      "city": "Franca"
+    },
+    {
+      "id": "mOx8a4y1lV2D_gPVsY5RE",
+      "name": "Julio",
+      "surname": "Alves",
+      "cpf": "3213231",
+      "phoneNumber": "131231312",
+      "city": "Rio de Janeiro"
+    },
+    {
+      "id": "M1yISG3Tvg0MMsZmP-Cz9",
+      "name": "Pedro",
+      "surname": "Tavares",
+      "cpf": "31231321",
+      "phoneNumber": "11243123121",
+      "city": "São Paulo"
+    },
+    {
+      "id": "XuNvmzt3EkufSwPOEUTks",
+      "name": "Júlio",
+      "surname": "Ferreira",
+      "cpf": "321312312321",
+      "phoneNumber": "2312321312",
+      "city": "Franca"
+    },
+    {
+      "id": "3kLIwDu57rEvTBNgg--Yo",
+      "name": "Luis",
+      "surname": "Henrique",
+      "cpf": "1442939321",
+      "phoneNumber": "427382478",
+      "city": "Ribeirão Preto"
+    }
+  ]
+}
