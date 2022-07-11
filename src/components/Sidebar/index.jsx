@@ -53,6 +53,7 @@ export function Sidebar() {
         onInputChange={handleInputChange}
       />
       <S.SidebarItemsWrapper>
+        {/* Aqui nesse map eu teria que fazer algo recursivo igual o que eu fiz com a busca */}
         {items.map((item) =>
           item.isDropdown ? (
             <SidebarDropdown

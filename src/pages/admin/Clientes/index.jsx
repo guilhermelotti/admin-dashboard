@@ -19,6 +19,7 @@ import { RiDeleteBin6Line as DeleteIcon } from "react-icons/ri";
 
 import { useNavigate } from "react-router-dom";
 
+// TODO: caso fosse necessário fazer as outras telas eu criaria um componente separado para reutilizar
 function ClientList({
   clients,
   handleDelete,
@@ -37,7 +38,7 @@ function ClientList({
             <S.Th>CPF</S.Th>
             <S.Th>TELEFONE</S.Th>
             <S.Th>CIDADE</S.Th>
-            <S.Th></S.Th>
+            <S.Th>AÇÕES</S.Th>
           </S.Tr>
         </S.THead>
         <S.TBody>
